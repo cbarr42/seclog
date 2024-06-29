@@ -1,0 +1,1 @@
+The goal of this project is to go through some of the security related log files and find relevant logs. This python script searches through the auth and ufw logs on Ubuntu systems looking for sudo usage, failed logons, and blocked traffic, allowing administrators to quickly know if there were personnel attempting to access the system.
